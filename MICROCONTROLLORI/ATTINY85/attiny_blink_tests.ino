@@ -40,3 +40,7 @@ void loop() {
 // Fonte Aliverti per primi passi e sketch https://www.youtube.com/watch?v=u5xWLRFcGss&t=368s
 // Fonte Aliverti per preparare Arduino as ISP https://www.youtube.com/watch?v=fb2cH6MDG8s
 // Fonte Aliverti per pin PWM e analogici https://www.youtube.com/watch?v=HjKyLFnbMjw
+
+// DA FARE
+// Fonte Aliverti per controllo tasto https://www.youtube.com/watch?v=ABi1O_vWGKs
+// Fonte Aliverti per comunicare con porta seriale https://www.youtube.com/watch?v=B1_0Updscjs
